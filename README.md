@@ -1,1 +1,2 @@
-# veil_front_end
+# Veil - Front End
+A React front end for Viel
